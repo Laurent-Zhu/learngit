@@ -8,7 +8,7 @@
 
 ### 1. Terminal
 
-学习了`cd`、`ls`、`apt install`等命令
+学习了`cd`、`ls`、`apt install`等等命令
 
 <img src="/home/laurent/.config/Typora/typora-user-images/image-20240923230448774.png" alt="image-20240923230448774" style="zoom:50%;" />
 
